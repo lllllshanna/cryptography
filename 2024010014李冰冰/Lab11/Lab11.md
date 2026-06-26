@@ -972,11 +972,11 @@ ls -lh message.txt encrypted_message.bin signature.bin decrypted_message.txt
 
 | 部分 | 含义 |
 | :--- | :--- |
-| `ls -lh` | 以易读格式显示文件大小和权限 |
-| `message.txt` | 原始明文文件 |
-| `encrypted_message.bin` | RSA 加密后的密文 |
-| `signature.bin` | 对密文生成的数字签名 |
-| `decrypted_message.txt` | 解密后得到的明文 |
+| `ls -lh` | 以易读格式显示文件大小和权限|
+| `message.txt` | 原始明文文件|
+| `encrypted_message.bin` | RSA 加密后的密文|
+| `signature.bin` | 对密文生成的数字签名|
+| `decrypted_message.txt` | 解密后得到的明文|
 
 观察：
 
